@@ -5,7 +5,7 @@
 ### Subsection 1-1
 Source:code
 ```
-print "Hello world"
+print ("Hello world")
 ```
 
 ## Section 2
